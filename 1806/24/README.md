@@ -17,3 +17,10 @@ English - Plain Text
 English - PDF  
 German - Plain Text  
 German - PDF  
+
+## III. Vergleichende uebersicht der Eigenschaften der vier, in der rohen Platina neu entdeckten Metalle, von Fourcroy und Vauquelin, (vorgelef. in Nation.-Instit. am 17ten März 1806.).*
+
+English - Plain Text  
+English - PDF  
+German - Plain Text  
+German - PDF  
