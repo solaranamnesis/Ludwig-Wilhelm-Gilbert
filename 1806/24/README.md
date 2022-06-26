@@ -1,4 +1,4 @@
-# Annalen der Physik, 1806. Vol. 24.
+# Annalen der Physik, Band 24, 1806.
 
 Public Domain works by Ludwig Wilhelm Gilbert (1769 - 1824)
 
