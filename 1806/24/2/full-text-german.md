@@ -17,3 +17,25 @@ Aerolith von Valence. Augenzeugen des Herabfallens des zweiten Aerolithen, der z
 Die Stückchen dieses letztern Steins blieben an einem Magnete hängen, und wirkten ziemlich stark auf die Nadel einer kleinen Boussole, die wir auf das Land mitgenommen hatten. Am Stahl schlagen fie kein Feuer. Im Wasser zergehen sie wie Ton, und es entbinden ich dabei kleine Blasen Gas, das wir untersuchen wollen. Dies sind die kleinen Versuche, welche wir an Ort und Stelle anstellen konnten; wir haben die Absicht, darüber eine umständlichere Arbeit zu unternehmen. Inzwischen glauben wir noch bemerken zu müssen, dass kein leuchtendes Meteor das Herabfallen dieser Steine begleitet hat, und dass schon dieses, vereint mit ihrer Farbe und Härte, zeigt, dass sie von allen anderwärts herab gefallenen Steinen verschieden sind.
 
 ## 2\. Auszug aus dem Berichte des Friedensrichters des Cantons von Vezenobres, erstes Arrondissement des Gard-Departements, von einem zu Valence am 15ten März 1806 herab gefallenen Steine.*
+
+*) Annales de Chimie, Juil. 1806, p. 35.
+
+Den 19. Apr. 1806.
+
+Die Nachrichten, welche ich über die Aerolithe eingezogen habe, sind folgende:
+
+1°. Zu Valence hörte man am 15ten März 1806, gegen 5 Uhr Abends, einen grossen Knall wie einen Kanonenschuss, dem ein furchtbares donnerähnliches Rollen voran gegangen war, und unmittelbar darauf [fiel] eine Masse, die ungefähr 4 Pfund wiegen mochte, herab, zerbrach einen Ast eines Feigenbaums, und machte in die Erde ein Loch, das ungefähr einen Viertelfuss tief war. Man hat bemerkt, dass der Donner, welcher der Vorläufer dieses Aerolithen war, von der Mittagsseite herkam, und nach Norden ging, und dass die Sonne mit keiner Wolke bedeckt war, doch waren Wolken in der Luft.
+
+2°. Was den Aerolithen betrifft, der in den Bezirk von Saint-Etienne herab gefallen ist, so geschah das an demselben Tage, zu derselben Stunde, mit dem Unterschiede, dass die Sonne durch Wolken bedeckt war, und dass man hier zwei Schüsse, wie zwei Kanonenschüsse, hörte, und Rollen (des roulemens), das vom Abend kam, und erst nach Morgen, dann nach Norden ging, welches Rollen (roulemens) schwächer war, da es anfing, als gegen das Ende, da es furchtbar (epouvantable) wurde. Darauf sah man in der Luft einen Rauch, und man wurde in ziemlicher Höhe eine Masse von der Materie ansichtig, wovon ich hier ein Stück beilege. Man hat geurteilt, dass diese Masse 8 bis 9 Pfund wiegen möge, dass sie heiss war, und dass sie erweichte Teile (des parties ramolies) gehabt habe.
+
+Certificirt gleichlautend.
+
+3\. Analyse eines Aeroliths, welcher [zu Valence] im Arrondissement von Alais am 15ten März 1806 herab gefallen ist, von Thenard in Paris.*
+
+*) Eben das., p. 103, und im Auszuge im Journ. de Phys., t. 63, p. 56.
+
+Nach dem Berichte, welchen der Friedensrichter des Cantons von Vezenobres an den Minister des Innern eingeschickt hat, und nach den Nachrichten, welche die Herren Dhombres-Firmas und der Dr. Pagès, Mitglieder der Akademie des Gard-Departements, Herrn Biot mitgeteilt haben, fiel dieser Stein mit einem grossen Getöse herab, nach Art aller Steine, die man bis jetzt irgendwo hat aus der Luft fallen sehen. Er hat aber nichts weniger als einerlei physikalische Eigenschaften mit ihnen.
+
+Er hat so ganz das Ansehen einer Art von Steinkohle, dass mehrete sich kaum überreden konnten, er sey keine Steinkohle, und dass einige Einwohner von Valence Stücke davon zu verbrennen versuchten. Er ist schwarz und besteht aus Blättchen (lames), von denen die meisten nur wenig an einander adhäriren, und deren jedes einzelne sehr zerreiblich ist. Auf dem Papiere lässt er einen Strich, welcher einige Aehnlichkeit mit dem des Reissbleies hat.
+
+...
