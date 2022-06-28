@@ -105,4 +105,38 @@ Die Analyse dieses Steins, welche wir mit Sorgfalt gemacht haben, fügt nichts z
 
 Erstens. Um zu gleicher Zeit die Gegenwart von Chromium und von Kohlenstoff in diesem Aerolithen darzutun, haben wir 1 Teil desselben, mit 2 Teilen Salpeter vermischt, in einem chemisch-pneumatischen Apparate erhitzt. Als die Hitze stark genug geworden war, entstand eine leichte Entzündung, und es stiegen kohlensaures Gas und salpetrigsaure Dämpfe auf, die beide im Kalkwasser verschluckt wurden. Die Dämpfe hatten einen Geruch, dem ähnlich, der entsteht, wenn man wesentliche Oehle oder Erdharze durch Salpetersäure entflammt. Es bildeten hierbei 5 Grammes des Aerolithen 1,2 Grammes kohlensauren Kalks; welches 2,52 Teile Kohlenstoff in 100 Teilen des Aerolithen anzeigt. Als wir die calcinirte Mengung mit Wasser auslaugten, erhielten wir das Chromium, dessen Menge wir indess nicht bestimmt haben.
 
-...
+Zweitens. Nachdem wir den Kohlenstoff, das Chromium und die Kieselerde durch die bekannten Mittel abgeschieden hatten,* haben wir aus der salzsauren Auslösung, welche einen grossen Ueberschuss an Säure hatte, das Eisen durch Ammoniak niedergeschlagen. Ungeachtet der hervor stechenden Säure nahm das Eisen doch fast den ganzen Gehalt an Magnesia mit. Denn als wir den Niederschlag mit Essigsäure behandelten, um das Manganesmetall, wenn etwas davon vorhanden war, zu scheiden, erhielten wir 0,6 Grammes dieser Erde. Dieses beweist, dass das oxydirte Eisen auf die Magnesia eine mächtige Einwirkung äussert, welche eine Verbindung beider bewirkt; denn wie bekannt, wird die Magnesia für ich aus ihren hinlänglich sauern Auflösungen durch Ammoniak nicht niedergeschlagen.
+
+*) Durch Glühen mit Salpeter und Digeriren mit Salsäure.
+
+Drittens. Als wir der Flüssigkeit kaustisches Kali zusetzten, um aus ihr alle Magnesia, die sie noch enthalten konnte, niederzuschlagen, bildete sich in sehr geringer Menge ein weisser Niederschlag, der sich beim Schütteln wieder auflöste, und nur durch Zusatz einer grossen Menge von Kali bleibend wurde. Dieses beweist, dass die Magnesia aus den dreifachen Verbindungen, in welche sie eingeht, erst in dem Augenblicke geschieden wird, wenn das überschüssige salzsaure Ammoniak vollständig zersetzt ist. Denn bis dahin verbinden sich damit alle Teile der Magnesia bald, nachdem sie niedergeschlagen worden.
+
+Viertens. Die Magnesia, welche wir auf diese Art erhielten, war grünlich; eine Farbe, welche von dem Nickeloxyd herrührt, das zu gleicher Zeit mit niederfiel, obschon sich in der Auflösung sehr viel mehr Ammoniak befand, als nötig war, es aufzulösen. Kaum blieb in der Flüssigkeit eine noch wahrnehmbare Menge dieses Metalles zurück.
+
+Wir haben überdies bemerkt, dass, wenn eine Eisenauflösung, welche Manganesoxyd enthält, durch Ammoniak gefällt wird, eine bedeutende Menge Manganes in der Flüssigkeit zurück bleibt, wenn gleich Ammoniak in Ueberschuss hinzu gesetzt wird. Denn sättigt man den Überschuss an Ammoniak durch eine Säure, so giebt blausaures Kali damit einen weissen oder rosafarbenen Niederschlag; ein Beweis, dass sich auch eine dreifache Verbindung der Säure, und des Ammoniaks mit dem Manganes bildet.
+
+Dieses sind die Bemerkungen, welche wir zu machen Gelegenheit gehabt haben. Sie werden für diejenigen nützlich seyn, welche in der Zukunft Aerolithe analysiren wollen, oder andre Steine, die ähnliche Bestandteile enthalten.
+
+Es folgt aus den Versuchen des Hrn. Thenard und aus den unsrigen, dass der in der Gegend von Valence herab gefallene Stein folgende Bestandteile in 100 Teilen enthält:
+
+Eisen im Minimo der Oxydirung|38 Th.*  
+Kieselerde|30*  
+Magnesia|14*  
+Nickel ungefähr|2
+Manganesoxyd ungefähr|2  
+Chromoxyd ungefähr|2  
+Kohlenstoff|2,5  
+Schwefel in einer nicht bestimmten Menge|*  
+zusammen|90,5
+
+*) Man vergl. S. 200, Anm.
+
+*) Im Gehalt an Kieselerde hätte sich also Thenard um 9 Teile geirrt. Sollte in der Salzsäure, die er über dem Steine kochte, so viel Kieselerde unwahrnehmbar haben können schweben bleiben? Warum er 5 Teile Magnesia zu wenig erhalten hat, erhellet aus dem, was Vauquelin anführt.
+
+*) Thenard giebt die Menge des Schwefels, wie wir gesehen haben, zu 3,5 Teilen an.
+
+Die 9,5 Teile Verlust sind dem grössten Teile nach der Gegenwart des Wassers in dem Aerolithe zuzuschreiben. Denn man erhält einige Tropfen Wasser, wenn man den Stein in einer Retorte erhitzt.
+
+Geschrieben in der Klasse der physikalischen und mathematischen Wissenschaften des Instituts, am 23sten Junius 1806.
+
+Unterzeichnet: Monge, Fourcroy, Berthollet; Vauquelin, Berichterstatter.
