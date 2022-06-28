@@ -122,7 +122,7 @@ Es folgt aus den Versuchen des Hrn. Thenard und aus den unsrigen, dass der in de
 Eisen im Minimo der Oxydirung|38 Th.*  
 Kieselerde|30*  
 Magnesia|14*  
-Nickel ungefähr|2
+Nickel ungefähr|2  
 Manganesoxyd ungefähr|2  
 Chromoxyd ungefähr|2  
 Kohlenstoff|2,5  
