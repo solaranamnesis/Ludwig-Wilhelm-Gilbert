@@ -30,7 +30,7 @@ Die Nachrichten, welche ich über die Aerolithe eingezogen habe, sind folgende:
 
 Certificirt gleichlautend.
 
-3\. Analyse eines Aeroliths, welcher [zu Valence] im Arrondissement von Alais am 15ten März 1806 herab gefallen ist, von Thenard in Paris.*
+## 3\. Analyse eines Aeroliths, welcher [zu Valence] im Arrondissement von Alais am 15ten März 1806 herab gefallen ist, von Thenard in Paris.*
 
 *) Eben das., p. 103, und im Auszuge im Journ. de Phys., t. 63, p. 56.
 
