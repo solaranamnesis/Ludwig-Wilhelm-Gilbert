@@ -95,4 +95,14 @@ Der Stein von Valence unterscheidet sich von den übrigen Aerolithen also nur da
 
 ## 4\. Auszug aus dem Sitzungs-Protokoll des National-Instituts vom 23sten Junius 1806.*
 
+*) Annal. de Chimie, Juill. 1806, p. 35.
+
+Der Friedensrichter des Cantons von Vezenobres hat Sr. Excellenz, dem Minister des Innern, ein Bruchstück eines Steins überschickt, welcher zu Valence am 15ten März 1806, gegen 5 Uhr Abends herab gefallen ist. Diesem hat er die Nachrichten von den Phänomenen beigefügt, welche das Fallen dieses Körpers begleiteten, so viel er davon erfahren konnte. Die Klasse hat den Brief vorlesen hören, in welchem sie aufgezeichnet sind.
+
+Die physischen Eigenschaften dieses Aerolithen sind denen der andern Steine derselben Art, die man bis jetzt gesehn hat, nicht ähnlich. Er ist schwarz, sehr zerreiblich, und lässt auf dem Papiere einen schwärzlichen Strich, wie schwarze Kreide oder Reissblei. Durch Reiben nimmt er die Politur der Erdharze an; beim Zerstossen in einem Mörser plattet er sich ab, und zerteilt sich in kleine Blättchen, statt, nach Art der andern Aerolithe, zu einem Pulver zu werden. Endlich verbreitet er im Feuer einen leichten bituminösen Geruch. Das specififche Gewicht desselben fand Biot 1,94.
+
+Die Analyse dieses Steins, welche wir mit Sorgfalt gemacht haben, fügt nichts zu der hinzu, welche wir von Hrn. Thenard haben. Sie hat uns indess zu einigen Bemerkungen Gelegenheit gegeben, welche wir der Klasse mitteilen wollen.
+
+Erstens. Um zu gleicher Zeit die Gegenwart von Chromium und von Kohlenstoff in diesem Aerolithen darzutun, haben wir 1 Teil desselben, mit 2 Teilen Salpeter vermischt, in einem chemisch-pneumatischen Apparate erhitzt. Als die Hitze stark genug geworden war, entstand eine leichte Entzündung, und es stiegen kohlensaures Gas und salpetrigsaure Dämpfe auf, die beide im Kalkwasser verschluckt wurden. Die Dämpfe hatten einen Geruch, dem ähnlich, der entsteht, wenn man wesentliche Oehle oder Erdharze durch Salpetersäure entflammt. Es bildeten hierbei 5 Grammes des Aerolithen 1,2 Grammes kohlensauren Kalks; welches 2,52 Teile Kohlenstoff in 100 Teilen des Aerolithen anzeigt. Als wir die calcinirte Mengung mit Wasser auslaugten, erhielten wir das Chromium, dessen Menge wir indess nicht bestimmt haben.
+
 ...
