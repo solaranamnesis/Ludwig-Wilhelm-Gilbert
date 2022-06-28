@@ -38,4 +38,18 @@ Nach dem Berichte, welchen der Friedensrichter des Cantons von Vezenobres an den
 
 Er hat so ganz das Ansehen einer Art von Steinkohle, dass mehrete sich kaum überreden konnten, er sey keine Steinkohle, und dass einige Einwohner von Valence Stücke davon zu verbrennen versuchten. Er ist schwarz und besteht aus Blättchen (lames), von denen die meisten nur wenig an einander adhäriren, und deren jedes einzelne sehr zerreiblich ist. Auf dem Papiere lässt er einen Strich, welcher einige Aehnlichkeit mit dem des Reissbleies hat.
 
+Diese Eigenthümlichkeiten bestimmten mich, ein Stück des Steins, welches Herr Biot die Güte hatte mir zu geben, der chemischen Analyse zu unterwerfen. Das specifilche Gewicht desselben war 1,94. Viele kleine Körnchen dieses Steins wurden vom Magnete angezogen.
+
+Als der Stein unter freiem Zutritte der Luft erhitzt wurde, veränderte sich die Farbe desselben schnell aus Schwarz in Roth; dabei verlor er fast nichts an Gewicht. Als ich ihn dagegen in einer kleinen Retorte calcinirte, deren Hals mit Quecksilber gesperrt war, blieb er schwarz, verlor 17 Procent (?) an Gewicht, und gab ungefähr 1 Kubikzoll kohlensaures Gas, während die Hitze so vermehrt wurde, dass die Retorte roth glühte. Borax, mit dem er geschmelzt wurde, färbte er gelblich-grün.
+
+Da ich aus diesen Versuchen schliessen musste, dass der Stein viel Eisen und wenig Kohlenstoff enthalte, und die geringe Menge, die ich besass, mir nicht erlaubte, andre Versuche anzustellen, um den directesten Gang der Analyse aufzufinden, so behandelte ich ihn folgender Massen:
+
+Ich liess Salzsäure in Ueberfluss über 10 Grammes in einer Phiole eine halbe Stunde lang kochen; während dieser Zeit entbanden sich nur einige Blasen Schwefelwasserstoffgas. Ich filtrirte darauf und wusch den unaufgelösten Rückstand, der auf dem Filtrum blieb, mit vieler Sorgfalt. Er war schwarz, änderte beim Trocknen in einem verschlossnen Gefässe seine Farbe nicht, und wog 2,35 Grammes.
+
+Als ich ihn in einem Tiegel roth glühte, wurde dieser Rückstand weiss, und wog nur noch 2,1 Grammes; und diese waren nichts als reine Kieselerde. Die verschwundnen 0,25 Grammes konnten nichts als Kohlenstoff seyn. Um indess hierüber jeden Zweifel zu heben, verschaffte ich mir noch 1 Gramme von solchem schwarzen Rückstande, vermischte damit rothes Quecksilberoxyd, und erhitzte es in einer mit Quecksilber gesperrten Retörte. Dabei ging so viel kohlensaures Gas über, dass der Kohlenstoff desselben ungefähr 0,1 Gramme betrug.
+
+Die salzsaure Auflösung war von gelber Farbe. Ich trieb durch Verdampfung die überflüßige Säure fort, und tröpfelte einen Ueberschuss von Ammoniak hinzu, das einen sehr ansehnlichen röthlichgelben Niederschlag bewirkte. Nun fitrirte ich, wusch das, was im Filtrum blieb, und untersuchte erst die Flüßigkeit, dann den Niederschlag.
+
+Die Flüssigkeit war bläulich, welches auf Gegenwart von Nickel schliessen liess. Um ihn zu scheiden, setzte ich Schwefelwasserstoff in Ueberschuss zu, und plötzlich bildeten sich schwarze Flocken, die ich mit grosser Vorsicht aufsammelte, und die mit Salpetersäure behandelt, eine Auflösung von wahrem salpetersauren Nickel gaben, die mir höchstens 0,25 Grammes Nickel zu enthalten schien. - Nachdem ich mich überzeugt hatte, dass die Flüssigkeit nichts metallisches mehr enthielt, goss ich eine Auflösung von Sauerkleesalz hinzu; sie wurde erst nach einiger Zeit getrübt, woraus ich schloss, dass sie nur einige Spuren von Kalk entielt. Darauf setzte ich kaustisches Kali zu; es schied 0,9 Grammes Magnesia ab, die ich in schwefelsaure Magnesia verwandelt habe.
+
 ...
