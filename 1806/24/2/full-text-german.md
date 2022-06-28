@@ -52,4 +52,47 @@ Die salzsaure Auflösung war von gelber Farbe. Ich trieb durch Verdampfung die �
 
 Die Flüssigkeit war bläulich, welches auf Gegenwart von Nickel schliessen liess. Um ihn zu scheiden, setzte ich Schwefelwasserstoff in Ueberschuss zu, und plötzlich bildeten sich schwarze Flocken, die ich mit grosser Vorsicht aufsammelte, und die mit Salpetersäure behandelt, eine Auflösung von wahrem salpetersauren Nickel gaben, die mir höchstens 0,25 Grammes Nickel zu enthalten schien. - Nachdem ich mich überzeugt hatte, dass die Flüssigkeit nichts metallisches mehr enthielt, goss ich eine Auflösung von Sauerkleesalz hinzu; sie wurde erst nach einiger Zeit getrübt, woraus ich schloss, dass sie nur einige Spuren von Kalk entielt. Darauf setzte ich kaustisches Kali zu; es schied 0,9 Grammes Magnesia ab, die ich in schwefelsaure Magnesia verwandelt habe.
 
+Den röthlich-gelben Niederschlag durch Ammoniak übergoss ich mit Salpetersäure; er löste sich darin vollständig auf. Die Auflösung wurde fast bis zur Trockniss abgedampft, mit Wasser dige rirt, und filtrirt. Auf diese Art erhielt ich eine Flüssigkeit, welche beinahe 0,2 Gramme Manganesoxyd entielt; es wurde durch blausaures Kali daraus niedergeschlagen,* und war weder mit Eisen, (oder höchstens mit sehr wenig,) noch mit Thonerde vermischt. Auf dem Filtrum fand ich 4,6 Grammes rothen Eisenoxyds, in welchem sich nur einige Spuren von Manganes und keine Tonerde fand.
+
+*) Schlägt man das Manganes aus einer seiner Auflösungen mit Ammoniak nieder, so bleibt immer mehr oder weniger Maganesoxyd in der Flüssigkeit, weil sich ein dreifaches, durch Ammoniak unzersetzbares Salz bildet. Enthält die Flüssigkeit die doppelte Menge von Säure, welche zur Auflösung des Manganesoxyds hinreicht, so giebt Ammoniak in ihr selbst gar keinen Niederschlag. Da nun das Eisen, wenn es sich im Zustande des rothen Oxyds befindet, durch Ammoniak vollständig niedergeschlagen wird, auch wenn es in einer grossen Menge überschüssiger Säure aufgelöst ist; so glaubte ich hier ein leichtes Mittel zu haben, das Eisen vom Manganesoxyd zu scheiden. Allein befinden sich Eisenoxyd und Manganesoxyd zugleich in einer Flüssigkeit, so nimmt das durch Ammoniak niedergeschlagne Eisenoxyd immer eine ziemlich bedeutende Menge Manganesoxyd mit, so gross auch die überschülssige Menge von Säure ist. Ich werde die Versuche, die ich über diesen Gegenstand seit langer Zeit gemacht habe, bald bekannt machen. Thenard.
+
+Um die Menge des Schwefels in dem Meteorsteine zu bestimmen, habe ich mich des Salpeters bedient. Mit ihm calcinirte ich eine abgewogne Menge des gepulverten Steins, goss dann Wasser darauf, sättigte die Auflösung mit reiner Salpetersäure, und setzte dann salzsauren Baryt zu. Ich erhielt so einen Niederschlag von schwefelsaurem Baryt, welchem 0,35 Grammes Schwefel auf 10 Grammes des Steins entsprechen.
+
+Um endlich über die Gegenwart von Chromium belehrt zu werden, schlug ich den von Herrn Laugier betretnen Weg ein.* Ich calcinirte den Stein 1/2 Stunde lang mit kaustischem Kali, laugte die Masse aus, und fand in der Lauge sehr merklich chromiumsaures Kali. Ich schätze die Menge des Chromiums auf höchstens 0,01 der ganzen Masse.
+
+*) Das chromiumsaure Kali, welches beim Calciniren des Steins mit Salpeter entsteht, ist unter der grossen Masse von schwefelsaurem Kali, das sich bei diesem Prozesse bildet, in zu geringer Menge vorhanden, als dass es sich erkennen liesse. Thenard.
+
+Es war nun nichts mehr übrig, als den Zustand zu bestimmen, worin sich die Metalle in diesem Meteorsteine finden. Ich behandelte zu dem Eude eine Portion des Steins mit Salzsäure; es faud kein merkliches Aufbrausen Statt; dessen ungeachtet gab Ammoniak einen stark grünen Niederschlag. Das Eisen scheint folglich in dem Steine als schwarzes Oxyd vorhanden zu seyn.* Wahrscheinlich befinden finden sich die andern Metalle, das Manganes, der Nickel, das Chromium, darin ebenfalls im Zustande von Oxyden.*
+
+*) Oder vielmehr in zweierlei Gestalt: in der erdigen Masse als schwarzes Oxyd; in den eingesprengten Eisen- und Schwefelkiesteilchen als regulinisches Metall. So kömmt nach den genauen und nausterhaften Untersuchungen von Proust, Howard und Klapoth, welche die einzeln unterscheidbaren Teilchen einzeln zerlegt haben, (was bei diesem Meteorsteine von Valence weder von Thenard noch von Vauquelin geschehn ist,) das Eisen in allen von ihnen behandelten meteorischen Massen vor, und Thenards Analyse enthält keinen einzigen Grund, zu glauben, dass der Stein von Valence hier eine Ausnahme mache. Wäre gar kein regulinisches Eisen in diesem Aerolithen gewesen, so hätte er bei der Behandlung mit Salzsäure keine Spur von Schwefelwasslerstoffgas hergeben können; Thenard bemerkt aber aus drücklich, das Blasen Gas ausstiegen, die er für Schwefelwasserstoffgas ausgiebt, die aber eben so gut Wasserstoffgas mit Schwefelwasserstoffgas vermilcht seyn könnten. Im Stein von Benares macht das eingesprengte Eisen nur 1/50stel der ganzen Masse aus, (Ann., XIII, 304,) und die erdige Masse besteht zu 1/3 aus Eisenoxyd, (das., S. 311.) Hätte man ihn daher im Ganzenanalysirt, so würde man durch die Analyse auch nur auf die Gegenwart von schwarzem Oxyd und nicht auf die desregulinischen Eisens geführt worden seyn. Der Kies war auch in diesem Meteorsteine von Valence Magnetkies, nicht Schwefelkies, wie die Erscheinung von Schwefelwasserstoffgas beweist, Prousts und Hatchetts lehrreichen Entdeckungen gemäss, welche man in den folgenden Heften dieser Annalen frei bearbeitet finden wird, da sie mit der Einsicht in die Natur der Meteorsteine im genauesten Zusammenhange stehn. Ist Thenards Bestimmung der Schwefelmenge, 3,8, richtig, so würde, da der Magnetkies auf 60 Teile Schwefel 100 Teile Eisen enthält, die Menge des regulinischen Eisens in dem Magnetkiese allein 6,3 Teile betragen haben.
+
+*) Der mit dem eingesprengten Eisen legirte Nickel ist als Metall in den Meteorsteinen vorhanden. Nach Howard soll auch ihr erdiger Teil Nickel enthalten, Hr. Proust hat aber darin kein Nickeloxyd, sondern Manganesoxyd gefunden.
+
+Aus diesen Versuchen folgt, dass der bei Valence herab gefallene Stein ungefähr aus folgenden Bestandteilen in 100 Teilen besteht:
+
+Kieselerde|21 Teile  
+Eisen als schwarzes Oxyd|40  
+Nickeloxyd|2,5  
+Manganesoxyd|2  
+Kohlenstoff|2,5  
+Magnesia|9  
+Schwefel|3,5  
+Chromium|1  
+Wasser und Verlust|18,5  
+|100*
+
+*) Die hier richtig hergesetzten Zahlen sind in den Ann. de Chimie und in dem Journ. de Phys., in beiden durch verschiedne Druckfehler entstellt. Dass übrigens Thenard sich in der Bestimmung mehrerer dieser Zahlwerthe geirrt habe, zeigt die folgende Nummer.
+
+Diese Bestandteile kommen sehr nahe denen der andern Aerolithe, welche man analysirt hat.* Manganes, Nickel, Chromium, Schwefel und Magnesia sind, wie man sieht, in dem Steine von Valence ungefähr in derselben Menge, als in den andern Meteorsteinen vorhanden, nur enthält er etwas weniger Kieselerde und mehr Eisen als sie; man weiss aber, dass auch in diesen das Verhältniss der Bestandteile variirt. In keinem findet sich Kalkerde und Tonerde.*
+
+*) So z. B. entielt der von Benares nach Howards Analyse 0,45 Kieselerde, 0,35 Eisenoxyd, 0,25 Magnesia, 0,02 Nickeloxyd, etwa 0,02 eingesprengtes nickelhaltiges Eisen, (Ann., XIII, 312,) und etwas Schwefel- oder vielmehr Magnetkies, (das., 309.)
+
+*) Tonerde nicht, wohl aber Kalkerde in sehr geringer Menge in mehrern.
+
+Der Stein von Valence unterscheidet sich von den übrigen Aerolithen also nur dadurch, dass er etwas Kohlenstoff, und die Metalle wahrscheinlich im Zustande von Oxyden enthält. Sollte sich diese Verschiedenheit nicht erklären lassen, wenn man annähme, dass dieser Stein bei seinem Durchfluge durch die Atmosphäre keinen sehr hohen Grad von Hitze ausgehalten habe? eine Annahme, welche um so zulässiger ist, da die Kohle in dem Steine sogleich verbrennt, wenn man ihn calcinirt, und besonders, da die Kieselerde, welche er enthält, nicht die Gallertgestalt annimmt, wenn man ihn mit Salzsäure behandelt, wie das mit der Kieselerde der andern Meteorsteine jedes Mahl der Fall ist; dieses geschieht aber nur, wenn die Masse wie ein wenig zur Fritte geworden ist (legerement fritee), wesshalb die andern Meteorsteine, nicht aber der von Valence, wie einen Anfang von Schmelzung erlitten haben müssen.*
+
+*) Dass nur ihre schwarze Kruste, das Innere aber gar keine Art von Schmelzung erlitten haben könne, zeigt Herr Proust in seinen künftig mitzuteilenden Untersuchungen über den Meteorstein von Sigena sehr genügend.
+
+## 4\. Auszug aus dem Sitzungs-Protokoll des National-Instituts vom 23sten Junius 1806.*
+
 ...
